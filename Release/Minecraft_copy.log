@@ -1,0 +1,36 @@
+﻿Build started 05/07/2015 19:20:06.
+     1>Project "C:\Users\Scott\Documents\Visual Studio 2012\Projects\2d_Framework\2d_Framework\Minecraft_copy.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Camera.cpp Chunk.cpp ChunkManager.cpp Clock.cpp FinleHelper.cpp FirstPersonController.cpp Frustum.cpp Graphics.cpp main.cpp MatrixOperations.cpp Mesh.cpp SimplexNoise1234.cpp World.cpp
+         Camera.cpp
+     1>c:\users\scott\documents\visual studio 2012\projects\2d_framework\2d_framework\Graphics.hpp(4): fatal error C1083: Cannot open include file: 'glew.h': No such file or directory
+         Chunk.cpp
+     1>c:\users\scott\documents\visual studio 2012\projects\2d_framework\2d_framework\Block.hpp(14): warning C4800: 'char' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\scott\documents\visual studio 2012\projects\2d_framework\2d_framework\Graphics.hpp(4): fatal error C1083: Cannot open include file: 'glew.h': No such file or directory
+         ChunkManager.cpp
+     1>c:\users\scott\documents\visual studio 2012\projects\2d_framework\2d_framework\Block.hpp(14): warning C4800: 'char' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\scott\documents\visual studio 2012\projects\2d_framework\2d_framework\Graphics.hpp(4): fatal error C1083: Cannot open include file: 'glew.h': No such file or directory
+         Clock.cpp
+         FinleHelper.cpp
+     1>c:\users\scott\documents\visual studio 2012\projects\2d_framework\2d_framework\FileHelper.hpp(6): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+         FirstPersonController.cpp
+     1>c:\users\scott\documents\visual studio 2012\projects\2d_framework\2d_framework\Graphics.hpp(4): fatal error C1083: Cannot open include file: 'glew.h': No such file or directory
+         Frustum.cpp
+     1>c:\users\scott\documents\visual studio 2012\projects\2d_framework\2d_framework\Graphics.hpp(4): fatal error C1083: Cannot open include file: 'glew.h': No such file or directory
+         Graphics.cpp
+     1>c:\users\scott\documents\visual studio 2012\projects\2d_framework\2d_framework\Graphics.hpp(4): fatal error C1083: Cannot open include file: 'glew.h': No such file or directory
+         main.cpp
+     1>c:\users\scott\documents\visual studio 2012\projects\2d_framework\2d_framework\Graphics.hpp(4): fatal error C1083: Cannot open include file: 'glew.h': No such file or directory
+         MatrixOperations.cpp
+         Mesh.cpp
+     1>Mesh.cpp(18): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>Mesh.cpp(19): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+         SimplexNoise1234.cpp
+         World.cpp
+     1>c:\users\scott\documents\visual studio 2012\projects\2d_framework\2d_framework\Block.hpp(14): warning C4800: 'char' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\scott\documents\visual studio 2012\projects\2d_framework\2d_framework\Graphics.hpp(4): fatal error C1083: Cannot open include file: 'glew.h': No such file or directory
+     1>Done Building Project "C:\Users\Scott\Documents\Visual Studio 2012\Projects\2d_Framework\2d_Framework\Minecraft_copy.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:05.13
